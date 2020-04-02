@@ -1,2 +1,2 @@
 # events-management
-details README
+python app with console ui for events management 
