@@ -1,0 +1,2 @@
+# events-management
+details README
